@@ -27,7 +27,7 @@ alert(rightNow);
 let myString = "Hello World";
 alert(myString.length);
 
-let myArray = ["Sam", "Bryan"];
+//let myArray = {"Sam", "Bryan"};
 
 let myObject = {
   studentCount: 0,
